@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function () {
-    console.log("Somos Vibras website loaded!");
+    console.log("Bienvenido a Somos Vibras!");
 });
